@@ -6,5 +6,5 @@ A quick and easy website showcasing a responsive layout complete with a "Home", 
   - The Portfolio page featured a hyperlink to my github repositories page.
   - The Contact page includes my personal contact information, as well as a hyper-link to my social media profile on Linkedin.
 
-Link to screenshot of the home page
+Link to screenshot of the home page.
   - https://drive.google.com/open?id=1ljk6dBR_iG0mydbrDAMNvUHOBnEa7aIV
